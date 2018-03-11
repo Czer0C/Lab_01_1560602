@@ -2,7 +2,7 @@
 * Mã số sinh viên: 1560602	
 * Họ tên: Nguyễn Hải Triều
 * Lớp: 15CK3
-* Email: 1560602@studen.hcmus.edu.vn
+* Email: 1560602@student.hcmus.edu.vn
 * Điện thoại: 0907388568
 * Link facebook cá nhân: https://www.facebook.com/profile.php?id=100010218217855
 <table>
